@@ -1,6 +1,6 @@
 export default function Newsletter() {
   return (
-    <section className="bg-white py-12">
+    <section className="bg-red-500 py-12">
       <div className="max-w-2xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-4">Subscribe to our Newsletter</h2>
         <p className="text-gray-600 mb-8">Get the latest updates on new products and upcoming sales</p>
